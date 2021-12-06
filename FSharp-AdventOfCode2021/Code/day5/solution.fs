@@ -1,7 +1,5 @@
 module Code.day5.solution
 
-open System
-
 type Point = {
     X: int; Y: int
 }
