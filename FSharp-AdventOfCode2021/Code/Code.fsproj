@@ -21,8 +21,13 @@
         <Compile Include="day5\test.fs" />
         <Compile Include="day5\solution.fs" />
         <Compile Include="day6\test.fs" />
-        <Compile Include="day6\solution.fs" />
+        <Compile Include="day6\solution_1.fs" />
+        <Compile Include="day6\solution_2.fs" />
         <Compile Include="day6\input.fs" />
+        <Compile Include="day7\input.fs" />
+        <Compile Include="day7\solution.fs" />
+        <Compile Include="day10\input.fs" />
+        <Compile Include="day10\solution.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 

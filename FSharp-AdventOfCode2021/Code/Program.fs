@@ -13,7 +13,7 @@ let timeOperation func =
 [<EntryPoint>]
 let main argv =
     let operation unit =
-        day6.solution.part1 day6.input.input
+        day10.solution.part2 day10.input.input
     let {Result = result; MillisecondsTaken = ms} = timeOperation operation
     printfn $"Total time taken: %d{ms}"
     printfn $"%A{result}"

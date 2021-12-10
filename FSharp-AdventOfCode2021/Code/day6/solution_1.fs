@@ -1,4 +1,4 @@
-module Code.day6.solution
+module Code.day6.solution_1
 
 open Code.day3
 
@@ -20,7 +20,7 @@ let passOneDay (fish: Fish[]) =
     
 let part1 input =
     let initialFish = parseInput input
-    let days = 80
+    let days = 256
     let rec loop day (fish: Fish[]) =
 //        printfn $"day=%d{day}, fish count = %d{fish.Length}"
         if day < days
