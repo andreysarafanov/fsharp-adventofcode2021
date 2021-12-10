@@ -26,6 +26,8 @@
         <Compile Include="day6\input.fs" />
         <Compile Include="day7\input.fs" />
         <Compile Include="day7\solution.fs" />
+        <Compile Include="day8\input.fs" />
+        <Compile Include="day8\solution.fs" />
         <Compile Include="day9\input.fs" />
         <Compile Include="day9\test.fs" />
         <Compile Include="day9\solution.fs" />
