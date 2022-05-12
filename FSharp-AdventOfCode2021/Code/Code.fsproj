@@ -39,6 +39,8 @@
         <Compile Include="day12\input.fs" />
         <Compile Include="day12\solution.fs" />
         <Compile Include="day12\test.fs" />
+        <Compile Include="day13\input.fs" />
+        <Compile Include="day13\solution.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
