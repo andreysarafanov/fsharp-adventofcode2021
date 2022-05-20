@@ -41,7 +41,15 @@
         <Compile Include="day12\test.fs" />
         <Compile Include="day13\input.fs" />
         <Compile Include="day13\solution.fs" />
+        <Compile Include="day14\input.fs" />
+        <Compile Include="day14\solution.fs" />
+        <Compile Include="day14\test.fs" />
+        <Compile Include="day14\solution_2.fs" />
         <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     </ItemGroup>
 
 </Project>
